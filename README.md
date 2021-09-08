@@ -1,6 +1,6 @@
 # OwO
 
-OwO in every programming language in the world (75 languages and keeps growing)
+OwO in every programming language in the world (78 languages and keeps growing)
 
 ## Languages
 
@@ -95,3 +95,9 @@ OwO in every programming language in the world (75 languages and keeps growing)
 
 - [Markdown](OwO.md)
 - [HTML](OwO.html)
+
+# Ideas and References
+
+Anybody who is interested could contribute to OwO. This project is NOT entirely my Idea. Feel free to contribute/use.
+
+[License](LICENSE.md)
