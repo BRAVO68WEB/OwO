@@ -90,3 +90,8 @@ OwO in every programming language in the world (75 languages and keeps growing)
 
 - [05AB1E](OwO.05ab1e)
 - [Jelly](OwO.jelly)
+
+## Markup Languages
+
+- [Markdown](OwO.md)
+- [HTML](OwO.html)
