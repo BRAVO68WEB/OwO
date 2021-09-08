@@ -67,3 +67,8 @@ OwO in every programming language in the world (75 languages and keeps growing)
 - [Xojo](OwO.xojo)
 - [Zig](OwO.zig)
 
+## Assemblers
+
+- [High Level Assembly](OwO.hla)
+<!-- - [LLVM IR](OwO.ll)  -->
+
