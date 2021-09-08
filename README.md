@@ -72,3 +72,18 @@ OwO in every programming language in the world (75 languages and keeps growing)
 - [High Level Assembly](OwO.hla)
 <!-- - [LLVM IR](OwO.ll)  -->
 
+## Esoteric Languages
+
+- [APL](OwO.apl)
+- [asm2bf](OwO.asm2bf)
+- [Befunge](OwO.befunge)
+- [Brainfuck](OwO.bf)
+- [Copypasta](OwO.copypasta)
+- [FiM++](OwO.fim)
+- [Hexagony](OwO.hxg)
+<!-- - [INTERCAL](OwO.i) -->
+- [LOLCODE](OwO.lolcode)
+- [Mascarpone](OwO.mascarpone)
+- [Vyxal](OwO.vy)
+
+
