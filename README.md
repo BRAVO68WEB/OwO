@@ -86,4 +86,7 @@ OwO in every programming language in the world (75 languages and keeps growing)
 - [Mascarpone](OwO.mascarpone)
 - [Vyxal](OwO.vy)
 
+## Golfing Languages
 
+- [05AB1E](OwO.05ab1e)
+- [Jelly](OwO.jelly)
