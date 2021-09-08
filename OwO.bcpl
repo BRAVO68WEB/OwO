@@ -1,0 +1,6 @@
+get "libhdr"
+
+let start() be
+$(
+  writes("OwO*n")
+$)
