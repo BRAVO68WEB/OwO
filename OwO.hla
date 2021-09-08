@@ -1,0 +1,7 @@
+program owo;
+
+#include("stdlib.hhf");
+
+begin owo;
+  stdout.put("OwO", nl);
+end owo;
