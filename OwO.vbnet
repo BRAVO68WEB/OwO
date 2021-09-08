@@ -1,0 +1,7 @@
+Imports System
+
+Module uwu
+  Sub Main()
+    Console.WriteLine("OwO")
+  End Sub
+End Module
